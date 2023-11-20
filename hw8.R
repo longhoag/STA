@@ -33,3 +33,5 @@ boxplot(data, horizontal = T)
 
 mean(data)
 sd(data)
+
+?pnorm

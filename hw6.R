@@ -24,7 +24,7 @@ pnorm(2.5) - pnorm(1.07)
 1 - pnorm(1.7)
 pnorm(2.5) - pnorm(-2.5)
 
-#6
+#6 ----
 qnorm(0.9836)
 #pnorm(c) - pnorm(0) = 0.2939
 qnorm(0.2939 + pnorm(0))
